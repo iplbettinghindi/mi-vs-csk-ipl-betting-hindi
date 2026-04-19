@@ -1,18 +1,18 @@
 # 🏏 MI बनाम CSK (Mumbai Indians vs Chennai Super Kings) — IPL “राइवलरी” मैच प्रीव्यू + बेटिंग गाइड (हिंदी)
 
 <p align="center">
-  <a href="https://1wjdqo.life/v3/7026/cricket-form?p=6jcc" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <a href="https://1wjdqo.life/v3/7026/cricket-form?p=6jcc" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/🏏_BET_ON_MI-1e40af?style=for-the-badge&labelColor=111827"
+      src="https://img.shields.io/badge/%F0%9F%8F%8F_BET_ON_MI-1e40af?style=for-the-badge&labelColor=111827"
       alt="Bet on Mumbai Indians (MI) — 1win"
       width="320"
       style="margin:10px 8px;"
     />
   </a>
 
-  <a href="https://1wjdqo.life/v3/7026/cricket-form?p=6jcc" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <a href="https://1wjdqo.life/v3/7026/cricket-form?p=6jcc" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/🏏_BET_ON_CSK-f59e0b?style=for-the-badge&labelColor=111827"
+      src="https://img.shields.io/badge/%F0%9F%8F%8F_BET_ON_CSK-f59e0b?style=for-the-badge&labelColor=111827"
       alt="Bet on Chennai Super Kings (CSK) — 1win"
       width="320"
       style="margin:10px 8px;"
